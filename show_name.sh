@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "Your First Name"
-echo "Your Last Name"
+echo "My name Ihor Safronov!"
